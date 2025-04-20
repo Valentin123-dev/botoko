@@ -1,0 +1,40 @@
+.btk-order{
+    background-image: url(F2.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: 0cqi;
+  
+}
+.btk-order{
+    color: aliceblue;
+}
+.v-v{
+    color: rgb(37, 37, 167);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.card-ider{
+    text-align: justify;
+}
+.btn-hover:hover{
+    background-color: brown;
+    color: antiquewhite;
+    border-color: blue;
+    transform: scale(1.05);
+    box-shadow: 0 4px 8pc rgba(0, 0, 0, 0.3);
+    transition: all 0.3S ease;
+}
+.ya-liboso{
+    text-align: justify;
+}
+.ya-mibale{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.val-order{
+    background-image: url(f1.jpeg);
+    background-size: cover;
+    color: beige;
+}
+.card-A, .card-B, .card-c{
+    overflow: auto;
+}
